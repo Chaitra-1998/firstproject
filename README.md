@@ -31,7 +31,7 @@ void setup()
   lcd.print("Smrt Vehicl Accident");
   lcd.setCursor(0, 1);
   lcd.print("  Detection System  ");
-  lcd.setCursor(0, 2);
+  lcd.setCursor(0, 2)
   lcd.print("From: IS Department.");
   lcd.setCursor(0, 3);
   lcd.print("  PESITM Shivamogga ");
